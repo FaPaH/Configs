@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+=======
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+>>>>>>> 87428d163fe16e267c5de2ef4997f30b517555f6
