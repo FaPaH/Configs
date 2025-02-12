@@ -3,7 +3,7 @@ spring:
     type: redis
     redis:
       cache-null-values: true
-      time-to-live: 30000
+      time-to-live: 300000
   data:
     redis:
       host: localhost
